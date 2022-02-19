@@ -11,3 +11,11 @@ This cheat only works in factory game mode!
 # getMegaBot.js
 
 ### Get the script from the file [getMegaBot.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/factory/getMegaBot.js) or https://schoolcheats.net/blooket
+
+# maxBlooks.js
+
+### Get the script from the file [maxBlooks.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/factory/maxBlooks.js)
+
+# removeGlitches.js
+
+### Get the script from the file [removeGlitches.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/factory/removeGlitches.js)

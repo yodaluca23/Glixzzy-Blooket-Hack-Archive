@@ -21,7 +21,3 @@ This cheat only works in crypto hack game mode!
 # resetPlayerCrypto.js
 
 ### Get the script from the file [resetPlayerCrypto.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crypto/resetPlayerCrypto.js)
-
-# setCustomPassword.js
-
-### Get the script from the file [setCustomPassword.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crypto/setCustomPassword.js)
