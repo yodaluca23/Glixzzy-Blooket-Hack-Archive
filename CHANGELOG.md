@@ -21,6 +21,9 @@
 
 - v4.2 - Fixed a lot of bugs
 
+- v4.3 - Added new cheats for couple game modes
+    - Fixed those 'An error occured' erors.
+
 ## Blooket Hack v3
 
 - Inside code revamp (Code revamp for only me of course, cause y'all can't see the code since its obfuscated 😆)
