@@ -1,6 +1,6 @@
-When Glixzzy reposted their Origanal GitHub Resposatory I imidatly forked it and reverted the deleted folders so this code is identical to the code imidatly before Glixzzy deleted all the folders and put the anouncment stating the move to Schoolcheats.net
+When Glixzzy reposted their Original GitHub Repository I immediately forked it and reverted the deleted folders so this code is identical to the code immediately before Glixzzy deleted all the folders and put the announcement stating the move to Schoolcheats.net except of course some of the descriptions...
 
-Usefull Links:
+Useful Links:
 
 https://github.com/wagawgniwagagagas/blooket-hack
 https://www.reddit.com/r/TeamGliz/comments/sxe7ne/read_me/
