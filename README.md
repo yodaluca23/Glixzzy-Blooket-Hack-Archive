@@ -1,4 +1,4 @@
-Moved to: https://schoolcheats.net/blooket
+https://schoolcheats.net/blooket for blooket hacks!!
 
 
 Follow my twitter: https://twitter.com/glizuwu
